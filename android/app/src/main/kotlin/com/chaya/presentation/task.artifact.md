@@ -1,0 +1,3 @@
+- [x] Audit and fix `AndroidAudioRecorder.kt`
+- [x] Add RMS diagnostics
+- [x] Verify build and signal capture

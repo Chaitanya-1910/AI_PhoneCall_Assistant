@@ -1,0 +1,6 @@
+- [x] Update `AudioSource.kt` to include `Telecom`
+- [x] Update `AndroidAudioSourceManager.kt` to use `AudioSource`
+- [x] Update `AudioSourceManager.kt` to use `AudioSource`
+- [x] Update `DiagnosticsViewModel.kt` to use `AudioSource`
+- [x] Update `CallRepositoryImpl.kt` to handle `AudioSource.Telecom`
+- [x] Verify build

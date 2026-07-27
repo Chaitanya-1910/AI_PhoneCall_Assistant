@@ -1,0 +1,15 @@
+Summarize the following conversation.
+Extract key information and return ONLY a JSON object with the following structure:
+{
+  "caller": "Name or Unknown",
+  "phone": "Phone or Unknown",
+  "intent": "Intent category",
+  "priority": "Priority level",
+  "summary": "Brief 1-3 sentence summary",
+  "action_required": "Any pending action",
+  "callback_required": true/false,
+  "confidence": 0.95
+}
+
+Conversation History:
+{{history}}

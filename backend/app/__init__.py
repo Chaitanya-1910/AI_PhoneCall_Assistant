@@ -1,0 +1,1 @@
+"""CHAYA backend application package."""

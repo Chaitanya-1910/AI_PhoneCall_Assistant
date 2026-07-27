@@ -1,0 +1,5 @@
+# Copy to local.properties and set your SDK path.
+# sdk.dir=C\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+#
+# Backend API URL (default points to host machine)
+CHAYA_API_BASE_URL=http://192.168.0.8:8000

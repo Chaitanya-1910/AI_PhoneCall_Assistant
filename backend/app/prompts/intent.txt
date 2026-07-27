@@ -1,0 +1,23 @@
+Analyze the following conversation turn to determine the user's primary intent.
+Classify the intent into one of the following categories:
+- JOB_INTERVIEW
+- HR
+- RECRUITER
+- FRIEND
+- FAMILY
+- DELIVERY
+- BANK
+- MEDICAL
+- EMERGENCY
+- SPAM
+- UNKNOWN
+
+Return ONLY a JSON object with the following structure:
+{
+  "intent": "CATEGORY",
+  "confidence": 0.95,
+  "priority": "HIGH|MEDIUM|LOW"
+}
+
+User input:
+{{transcript}}
