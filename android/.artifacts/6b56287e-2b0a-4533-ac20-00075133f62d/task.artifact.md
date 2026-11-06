@@ -1,0 +1,3 @@
+- [ ] Update `ChayaMotion` in `Motion.kt` with nested objects (`Duration`, `Springs`, `Transitions`)
+- [ ] Verify fix with `./gradlew :app:compileDebugKotlin`
+- [ ] Create walkthrough
